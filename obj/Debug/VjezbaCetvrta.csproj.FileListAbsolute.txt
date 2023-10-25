@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\VjezbaCetvrta\bin\Debug\VjezbaCetvrta.exe.config
+C:\Users\ucenik\source\repos\VjezbaCetvrta\bin\Debug\VjezbaCetvrta.exe
+C:\Users\ucenik\source\repos\VjezbaCetvrta\bin\Debug\VjezbaCetvrta.pdb
+C:\Users\ucenik\source\repos\VjezbaCetvrta\obj\Debug\VjezbaCetvrta.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\VjezbaCetvrta\obj\Debug\VjezbaCetvrta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\VjezbaCetvrta\obj\Debug\VjezbaCetvrta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\VjezbaCetvrta\obj\Debug\VjezbaCetvrta.exe
+C:\Users\ucenik\source\repos\VjezbaCetvrta\obj\Debug\VjezbaCetvrta.pdb
